@@ -1,6 +1,6 @@
 **Painel Responsivo com Dark Mode - Criado por Marciano Matias**
 
-![Logo do Projeto](./img/mars.png_640.png)
+![Logo do Projeto](./img/Logotipo%202.png)
 
 ## Descrição
 
